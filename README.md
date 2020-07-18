@@ -26,7 +26,7 @@
 
 <br><br />
 
-![Digvijay's github stats](https://github-readme-stats.vercel.app/api?username=digvijay-r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Digvijay's github stats](https://github-readme-stats.vercel.app/api?username=digvijay-r&show_icons=true&title_color=151515&icon_color=79ff97&text_color=9f9f9f&bg_color=ffffff)
 
 <p align="center"> 
   <i> Let's connect and chat! :incoming_envelope: </i>
