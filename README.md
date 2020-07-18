@@ -12,7 +12,7 @@
   </samp>
 </p>
 
-<br>
+<br><br />
 
 <img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/digvijay-r/digvijay-r/master/gifs/coder.gif" />
 
