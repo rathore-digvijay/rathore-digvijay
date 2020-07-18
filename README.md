@@ -14,6 +14,14 @@
 
 <br>
 
+<img align="right" height="250" width="375" alt="GIF" src="https://raw.githubusercontent.com/digvijay-r/digvijay-r/master/gifs/coder.gif" />
 
+### Talking about Personal Stuffs:
+
+- 🛠 I’m currently working with Node.js, Express.js, Pomelo, <br /> Mongodb, Javascript, etc 💻.
+- 👨🏻‍💻 I’m currently learning Full Stack Development 🚀.
+- 💬 Ask me about anything! I am happy to help.
+- ⚡ Fun fact: Just passed the turing test.😇
+- 📫 How to reach me: rathore.digvijay10@gmail.com
 
 ![Digvijay's github stats](https://github-readme-stats.vercel.app/api?username=digvijay-r&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
