@@ -8,7 +8,7 @@
     <br><br>
     A passionate learner who's always willing to learn and work across technologies and domains. 
     <br><br>
-    Apart from this I love readinga & indulging my love for seeing new places.🤩
+    Apart from this I love reading & indulging my love for seeing new places.🤩
   </samp>
 </p>
 
